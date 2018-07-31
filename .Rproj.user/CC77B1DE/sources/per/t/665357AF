@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530627822047.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1019050760",
+    "id" : "665357AF",
+    "lastKnownWriteTime" : 1530681069,
+    "last_content_update" : 1530681069,
+    "path" : "~/Documents/Workspace/R/black76/R/src.R",
+    "project_path" : "R/src.R",
+    "properties" : {
+        "cursorPosition" : "40,20",
+        "scrollLine" : "40"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
